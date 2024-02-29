@@ -1,0 +1,1 @@
+export const SERVER_URL ="https://mpserver-rn3l.onrender.com"
